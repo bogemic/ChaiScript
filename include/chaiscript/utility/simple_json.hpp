@@ -21,7 +21,7 @@
 #include <iostream>
 #include "../chaiscript_defines.hpp"
 
-namespace json {
+namespace simple_json {
 
 using std::enable_if;
 using std::initializer_list;
