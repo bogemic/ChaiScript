@@ -22,7 +22,7 @@
 #include "../chaiscript_defines.hpp"
 #include "quick_flat_map.hpp"
 
-namespace json {
+namespace simple_json {
 
 using std::enable_if;
 using std::initializer_list;
